@@ -13,3 +13,5 @@ This exercise is to implement a linear regression machine learning method from s
     - [ 2 - 3 Initial running of gradient function ](#2-3)
     - [ 2 - 4 Tuning learning rate ](#2-4)
 - [ 3 - Evaluation of model ](#3)
+
+![image](https://github.com/siwoo-jung/linear_regression_from_scratch/assets/142607954/7844fca2-b3bb-459a-8bde-ce5d9c5ced54)
